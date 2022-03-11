@@ -1,0 +1,12 @@
+C:\Users\Emilinao\Desktop\.NET CAPACITACION\CleanAcrchitecture.Domain\bin\Debug\net6.0\CleanAcrchitecture.Domain.deps.json
+C:\Users\Emilinao\Desktop\.NET CAPACITACION\CleanAcrchitecture.Domain\bin\Debug\net6.0\CleanAcrchitecture.Domain.dll
+C:\Users\Emilinao\Desktop\.NET CAPACITACION\CleanAcrchitecture.Domain\bin\Debug\net6.0\CleanAcrchitecture.Domain.pdb
+C:\Users\Emilinao\Desktop\.NET CAPACITACION\CleanAcrchitecture.Domain\obj\Debug\net6.0\CleanAcrchitecture.Domain.csproj.AssemblyReference.cache
+C:\Users\Emilinao\Desktop\.NET CAPACITACION\CleanAcrchitecture.Domain\obj\Debug\net6.0\CleanAcrchitecture.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emilinao\Desktop\.NET CAPACITACION\CleanAcrchitecture.Domain\obj\Debug\net6.0\CleanAcrchitecture.Domain.AssemblyInfoInputs.cache
+C:\Users\Emilinao\Desktop\.NET CAPACITACION\CleanAcrchitecture.Domain\obj\Debug\net6.0\CleanAcrchitecture.Domain.AssemblyInfo.cs
+C:\Users\Emilinao\Desktop\.NET CAPACITACION\CleanAcrchitecture.Domain\obj\Debug\net6.0\CleanAcrchitecture.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Emilinao\Desktop\.NET CAPACITACION\CleanAcrchitecture.Domain\obj\Debug\net6.0\CleanAcrchitecture.Domain.dll
+C:\Users\Emilinao\Desktop\.NET CAPACITACION\CleanAcrchitecture.Domain\obj\Debug\net6.0\refint\CleanAcrchitecture.Domain.dll
+C:\Users\Emilinao\Desktop\.NET CAPACITACION\CleanAcrchitecture.Domain\obj\Debug\net6.0\CleanAcrchitecture.Domain.pdb
+C:\Users\Emilinao\Desktop\.NET CAPACITACION\CleanAcrchitecture.Domain\obj\Debug\net6.0\ref\CleanAcrchitecture.Domain.dll
