@@ -10,3 +10,15 @@ C:\Users\Emilinao\Desktop\.NET CAPACITACION\CleanAcrchitecture.Domain\obj\Debug\
 C:\Users\Emilinao\Desktop\.NET CAPACITACION\CleanAcrchitecture.Domain\obj\Debug\net6.0\refint\CleanAcrchitecture.Domain.dll
 C:\Users\Emilinao\Desktop\.NET CAPACITACION\CleanAcrchitecture.Domain\obj\Debug\net6.0\CleanAcrchitecture.Domain.pdb
 C:\Users\Emilinao\Desktop\.NET CAPACITACION\CleanAcrchitecture.Domain\obj\Debug\net6.0\ref\CleanAcrchitecture.Domain.dll
+c:\Users\Emilinao\Desktop\Curso Midas\Clean-Architecture-C-\.NET CAPACITACION\CleanAcrchitecture.Domain\bin\Debug\net6.0\CleanAcrchitecture.Domain.deps.json
+c:\Users\Emilinao\Desktop\Curso Midas\Clean-Architecture-C-\.NET CAPACITACION\CleanAcrchitecture.Domain\bin\Debug\net6.0\CleanAcrchitecture.Domain.dll
+c:\Users\Emilinao\Desktop\Curso Midas\Clean-Architecture-C-\.NET CAPACITACION\CleanAcrchitecture.Domain\bin\Debug\net6.0\CleanAcrchitecture.Domain.pdb
+c:\Users\Emilinao\Desktop\Curso Midas\Clean-Architecture-C-\.NET CAPACITACION\CleanAcrchitecture.Domain\obj\Debug\net6.0\CleanAcrchitecture.Domain.csproj.AssemblyReference.cache
+c:\Users\Emilinao\Desktop\Curso Midas\Clean-Architecture-C-\.NET CAPACITACION\CleanAcrchitecture.Domain\obj\Debug\net6.0\CleanAcrchitecture.Domain.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Emilinao\Desktop\Curso Midas\Clean-Architecture-C-\.NET CAPACITACION\CleanAcrchitecture.Domain\obj\Debug\net6.0\CleanAcrchitecture.Domain.AssemblyInfoInputs.cache
+c:\Users\Emilinao\Desktop\Curso Midas\Clean-Architecture-C-\.NET CAPACITACION\CleanAcrchitecture.Domain\obj\Debug\net6.0\CleanAcrchitecture.Domain.AssemblyInfo.cs
+c:\Users\Emilinao\Desktop\Curso Midas\Clean-Architecture-C-\.NET CAPACITACION\CleanAcrchitecture.Domain\obj\Debug\net6.0\CleanAcrchitecture.Domain.csproj.CoreCompileInputs.cache
+c:\Users\Emilinao\Desktop\Curso Midas\Clean-Architecture-C-\.NET CAPACITACION\CleanAcrchitecture.Domain\obj\Debug\net6.0\CleanAcrchitecture.Domain.dll
+c:\Users\Emilinao\Desktop\Curso Midas\Clean-Architecture-C-\.NET CAPACITACION\CleanAcrchitecture.Domain\obj\Debug\net6.0\refint\CleanAcrchitecture.Domain.dll
+c:\Users\Emilinao\Desktop\Curso Midas\Clean-Architecture-C-\.NET CAPACITACION\CleanAcrchitecture.Domain\obj\Debug\net6.0\CleanAcrchitecture.Domain.pdb
+c:\Users\Emilinao\Desktop\Curso Midas\Clean-Architecture-C-\.NET CAPACITACION\CleanAcrchitecture.Domain\obj\Debug\net6.0\ref\CleanAcrchitecture.Domain.dll

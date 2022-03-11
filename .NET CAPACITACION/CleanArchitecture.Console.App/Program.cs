@@ -3,12 +3,58 @@ using CleanArchitecture.Data;
 using Microsoft.EntityFrameworkCore;
 //creamos una instancia del dbcontext
 StreamerDbContext dbContext = new();
-await QueryFilter();
+
+
+//await TrackingAndNotTraking();
+//await QueryLinq();
+//await QueryMethods();
+//await QueryFilter();
 //await QueryStreaming();
 //await AddNewRecords();
 Console.WriteLine("Presione cualquier tecla para terminar el programa");
 Console.ReadKey();
 
+async Task TrackingAndNotTraking()
+{
+    //permite hacer un get y actualizarlo
+    var streamingWhitTracking = await dbContext!.Streamers!.FirstOrDefaultAsync(streamer => streamer.Id == 3);
+    //permite hacer un get per o no actualizarlo, por eso es recomendable usarlo apra solo leer datos
+    var streamingWhitNoTracking = await dbContext!.Streamers!.AsNoTracking().FirstOrDefaultAsync(streamer => streamer.Id == 4);
+
+    streamingWhitTracking.Nombre = "Netflix Super";
+    streamingWhitNoTracking.Nombre = "Amazon Super Videos";
+
+    await dbContext.SaveChangesAsync();
+
+}
+async Task QueryLinq()
+{
+    Console.WriteLine("Ingrese el Servicio de Streaming:");
+    var srtreamerNombre = Console.ReadLine();
+
+    var streamers = await (from i in dbContext.Streamers
+                           where EF.Functions.Like(i.Nombre, $"%{srtreamerNombre}%")
+                           select i).ToListAsync();
+
+    foreach (var streamer in streamers)
+    {
+        Console.WriteLine($"{streamer.Id} - {streamer.Nombre}");
+    }
+}
+async Task QueryMethods()
+{
+    var streamer = dbContext!.Streamers!;
+    //se buscara el primer dato que tenga el parametro(asume existencia de informacion y si no hay nada tirara una excepción)
+    var firstAsync = await streamer.Where(streamer => streamer.Nombre.Contains("z")).FirstAsync();
+    //se buscara el primer dato que tenga el parametro(si no hay nada devolvera null y no lanzara una excepción)
+    var firstOrDefaultAsync = await streamer.Where(streamer => streamer.Nombre.Contains("z")).FirstOrDefaultAsync();
+    var firstOrDefaultAsync2V = await streamer.FirstOrDefaultAsync(streamer => streamer.Nombre.Contains("z"));
+    //si el get que realizo trae mas de un valor dara una excepción
+    var singleAsync = await streamer.Where(streamer => streamer.Id == 3).SingleAsync();
+    //siempre devolvera un valor y si no hay nda sera null
+    var singleOrDefaultAsync = await streamer.Where(streamer => streamer.Id == 3).SingleOrDefaultAsync();
+    var resultado = await streamer.FindAsync(3);
+}
 async Task QueryFilter()
 {
     Console.WriteLine("Ingrese una compania de Streaming:");
@@ -30,7 +76,6 @@ async Task QueryFilter()
         Console.WriteLine($"{streamer.Id} - {streamer.Nombre}");
     }
 }
-
 async Task QueryStreaming()
 {
     var streamers = await dbContext!.Streamers!.ToListAsync();

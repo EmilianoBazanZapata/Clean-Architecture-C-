@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VtHk9TuGee2KY50QASBGLKqFv1mp2uuAOCkU0IAM2XsobxhQIWBegP6fphFaEPIxNIfma2ZnNkq1Gnwoggd9gw==",
+  "dgSpecHash": "8TZM4+3Lw3F4P8KIMiAaAPerZbPHgUsMbUampbTKvYEDAi8U9nyTjLI3Vb5RukU5sPu9YJ5lhTXHSs1YIQiOAQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Emilinao\\Desktop\\.NET CAPACITACION\\CleanArchitecture.Data\\CleanArchitecture.Data.csproj",
+  "projectFilePath": "C:\\Users\\Emilinao\\Desktop\\Curso Midas\\Clean-Architecture-C-\\.NET CAPACITACION\\CleanArchitecture.Data\\CleanArchitecture.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Emilinao\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Emilinao\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

@@ -1900,11 +1900,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Emilinao\\Desktop\\.NET CAPACITACION\\CleanArchitecture.Console.App\\CleanArchitecture.Console.App.csproj",
+      "projectUniqueName": "c:\\Users\\Emilinao\\Desktop\\Curso Midas\\Clean-Architecture-C-\\.NET CAPACITACION\\CleanArchitecture.Console.App\\CleanArchitecture.Console.App.csproj",
       "projectName": "CleanArchitecture.Console.App",
-      "projectPath": "C:\\Users\\Emilinao\\Desktop\\.NET CAPACITACION\\CleanArchitecture.Console.App\\CleanArchitecture.Console.App.csproj",
+      "projectPath": "c:\\Users\\Emilinao\\Desktop\\Curso Midas\\Clean-Architecture-C-\\.NET CAPACITACION\\CleanArchitecture.Console.App\\CleanArchitecture.Console.App.csproj",
       "packagesPath": "C:\\Users\\Emilinao\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Emilinao\\Desktop\\.NET CAPACITACION\\CleanArchitecture.Console.App\\obj\\",
+      "outputPath": "c:\\Users\\Emilinao\\Desktop\\Curso Midas\\Clean-Architecture-C-\\.NET CAPACITACION\\CleanArchitecture.Console.App\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Emilinao\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1922,11 +1922,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Emilinao\\Desktop\\.NET CAPACITACION\\CleanAcrchitecture.Domain\\CleanAcrchitecture.Domain.csproj": {
-              "projectPath": "C:\\Users\\Emilinao\\Desktop\\.NET CAPACITACION\\CleanAcrchitecture.Domain\\CleanAcrchitecture.Domain.csproj"
+            "C:\\Users\\Emilinao\\Desktop\\Curso Midas\\Clean-Architecture-C-\\.NET CAPACITACION\\CleanAcrchitecture.Domain\\CleanAcrchitecture.Domain.csproj": {
+              "projectPath": "C:\\Users\\Emilinao\\Desktop\\Curso Midas\\Clean-Architecture-C-\\.NET CAPACITACION\\CleanAcrchitecture.Domain\\CleanAcrchitecture.Domain.csproj"
             },
-            "C:\\Users\\Emilinao\\Desktop\\.NET CAPACITACION\\CleanArchitecture.Data\\CleanArchitecture.Data.csproj": {
-              "projectPath": "C:\\Users\\Emilinao\\Desktop\\.NET CAPACITACION\\CleanArchitecture.Data\\CleanArchitecture.Data.csproj"
+            "C:\\Users\\Emilinao\\Desktop\\Curso Midas\\Clean-Architecture-C-\\.NET CAPACITACION\\CleanArchitecture.Data\\CleanArchitecture.Data.csproj": {
+              "projectPath": "C:\\Users\\Emilinao\\Desktop\\Curso Midas\\Clean-Architecture-C-\\.NET CAPACITACION\\CleanArchitecture.Data\\CleanArchitecture.Data.csproj"
             }
           }
         }

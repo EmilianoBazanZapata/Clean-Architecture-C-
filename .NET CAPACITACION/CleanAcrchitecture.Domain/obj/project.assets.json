@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Emilinao\\Desktop\\.NET CAPACITACION\\CleanAcrchitecture.Domain\\CleanAcrchitecture.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Emilinao\\Desktop\\Curso Midas\\Clean-Architecture-C-\\.NET CAPACITACION\\CleanAcrchitecture.Domain\\CleanAcrchitecture.Domain.csproj",
       "projectName": "CleanAcrchitecture.Domain",
-      "projectPath": "C:\\Users\\Emilinao\\Desktop\\.NET CAPACITACION\\CleanAcrchitecture.Domain\\CleanAcrchitecture.Domain.csproj",
+      "projectPath": "C:\\Users\\Emilinao\\Desktop\\Curso Midas\\Clean-Architecture-C-\\.NET CAPACITACION\\CleanAcrchitecture.Domain\\CleanAcrchitecture.Domain.csproj",
       "packagesPath": "C:\\Users\\Emilinao\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Emilinao\\Desktop\\.NET CAPACITACION\\CleanAcrchitecture.Domain\\obj\\",
+      "outputPath": "C:\\Users\\Emilinao\\Desktop\\Curso Midas\\Clean-Architecture-C-\\.NET CAPACITACION\\CleanAcrchitecture.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Emilinao\\AppData\\Roaming\\NuGet\\NuGet.Config",

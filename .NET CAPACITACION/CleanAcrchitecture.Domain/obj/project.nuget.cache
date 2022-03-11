@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YP38iCWlJDAkemfpWM8YtPlixYA1N/sj2FBLFWKfa8cgAsRQxogi1/CsjHrC/jE7cEh6Xws+Md8f0X37ywa1/w==",
+  "dgSpecHash": "xTXUtxPCGhC8Npx6UBewclDOp5liFaEOtt/NwJiH28zyxiPtgRjPeegKVIm94Issf7IDCL6KUcxNAIOY4YfejQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Emilinao\\Desktop\\.NET CAPACITACION\\CleanAcrchitecture.Domain\\CleanAcrchitecture.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Emilinao\\Desktop\\Curso Midas\\Clean-Architecture-C-\\.NET CAPACITACION\\CleanAcrchitecture.Domain\\CleanAcrchitecture.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
