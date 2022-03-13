@@ -21,6 +21,13 @@ namespace CleanArchitecture.Data
                         .IsRequired()
                         //eliminación por cascada
                         .OnDelete(DeleteBehavior.Restrict);
+
+            modelBuilder.Entity<Video>()
+                         .HasMany(p => p.Actores)
+                         .WithMany(t => t.Videos)
+                         .UsingEntity<VideoActor>(
+                             pt => pt.HasKey(e => new { e.ActorId, e.VideoId })
+                         );
         }
         //convierto las clases como entidades
         //agrego el ? para que sea  nulo
