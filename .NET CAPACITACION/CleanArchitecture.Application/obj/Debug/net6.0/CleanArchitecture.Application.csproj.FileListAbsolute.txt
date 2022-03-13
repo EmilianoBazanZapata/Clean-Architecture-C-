@@ -1,0 +1,15 @@
+c:\Users\Emilinao\Desktop\Curso Midas\Clean-Architecture-C-\.NET CAPACITACION\CleanArchitecture.Application\bin\Debug\net6.0\CleanArchitecture.Application.deps.json
+c:\Users\Emilinao\Desktop\Curso Midas\Clean-Architecture-C-\.NET CAPACITACION\CleanArchitecture.Application\bin\Debug\net6.0\CleanArchitecture.Application.dll
+c:\Users\Emilinao\Desktop\Curso Midas\Clean-Architecture-C-\.NET CAPACITACION\CleanArchitecture.Application\bin\Debug\net6.0\CleanArchitecture.Application.pdb
+c:\Users\Emilinao\Desktop\Curso Midas\Clean-Architecture-C-\.NET CAPACITACION\CleanArchitecture.Application\bin\Debug\net6.0\CleanAcrchitecture.Domain.dll
+c:\Users\Emilinao\Desktop\Curso Midas\Clean-Architecture-C-\.NET CAPACITACION\CleanArchitecture.Application\bin\Debug\net6.0\CleanAcrchitecture.Domain.pdb
+c:\Users\Emilinao\Desktop\Curso Midas\Clean-Architecture-C-\.NET CAPACITACION\CleanArchitecture.Application\obj\Debug\net6.0\CleanArchitecture.Application.csproj.AssemblyReference.cache
+c:\Users\Emilinao\Desktop\Curso Midas\Clean-Architecture-C-\.NET CAPACITACION\CleanArchitecture.Application\obj\Debug\net6.0\CleanArchitecture.Application.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Emilinao\Desktop\Curso Midas\Clean-Architecture-C-\.NET CAPACITACION\CleanArchitecture.Application\obj\Debug\net6.0\CleanArchitecture.Application.AssemblyInfoInputs.cache
+c:\Users\Emilinao\Desktop\Curso Midas\Clean-Architecture-C-\.NET CAPACITACION\CleanArchitecture.Application\obj\Debug\net6.0\CleanArchitecture.Application.AssemblyInfo.cs
+c:\Users\Emilinao\Desktop\Curso Midas\Clean-Architecture-C-\.NET CAPACITACION\CleanArchitecture.Application\obj\Debug\net6.0\CleanArchitecture.Application.csproj.CoreCompileInputs.cache
+c:\Users\Emilinao\Desktop\Curso Midas\Clean-Architecture-C-\.NET CAPACITACION\CleanArchitecture.Application\obj\Debug\net6.0\CleanArchitecture.Application.csproj.CopyComplete
+c:\Users\Emilinao\Desktop\Curso Midas\Clean-Architecture-C-\.NET CAPACITACION\CleanArchitecture.Application\obj\Debug\net6.0\CleanArchitecture.Application.dll
+c:\Users\Emilinao\Desktop\Curso Midas\Clean-Architecture-C-\.NET CAPACITACION\CleanArchitecture.Application\obj\Debug\net6.0\refint\CleanArchitecture.Application.dll
+c:\Users\Emilinao\Desktop\Curso Midas\Clean-Architecture-C-\.NET CAPACITACION\CleanArchitecture.Application\obj\Debug\net6.0\CleanArchitecture.Application.pdb
+c:\Users\Emilinao\Desktop\Curso Midas\Clean-Architecture-C-\.NET CAPACITACION\CleanArchitecture.Application\obj\Debug\net6.0\ref\CleanArchitecture.Application.dll
