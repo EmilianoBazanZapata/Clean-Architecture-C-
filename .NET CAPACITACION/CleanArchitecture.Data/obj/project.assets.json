@@ -631,6 +631,16 @@
             "rid": "win"
           }
         }
+      },
+      "CleanAcrchitecture.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/CleanAcrchitecture.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CleanAcrchitecture.Domain.dll": {}
+        }
       }
     }
   },
@@ -1850,11 +1860,16 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "CleanAcrchitecture.Domain/1.0.0": {
+      "type": "project",
+      "path": "../CleanAcrchitecture.Domain/CleanAcrchitecture.Domain.csproj",
+      "msbuildProject": "../CleanAcrchitecture.Domain/CleanAcrchitecture.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "C:\\Users\\Emilinao\\Desktop\\Curso Midas\\Clean-Architecture-C-\\.NET CAPACITACION\\Src\\Infrastructure\\CleanAcrchitecture.Domain\\CleanAcrchitecture.Domain.csproj",
+      "CleanAcrchitecture.Domain >= 1.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.3",
       "Microsoft.EntityFrameworkCore.Tools >= 6.0.3"
     ]
@@ -1865,11 +1880,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Emilinao\\Desktop\\Curso Midas\\Clean-Architecture-C-\\.NET CAPACITACION\\Src\\Infrastructure\\CleanArchitecture.Data\\CleanArchitecture.Insfrasctructure.csproj",
-      "projectName": "CleanArchitecture.Insfrasctructure",
-      "projectPath": "C:\\Users\\Emilinao\\Desktop\\Curso Midas\\Clean-Architecture-C-\\.NET CAPACITACION\\Src\\Infrastructure\\CleanArchitecture.Data\\CleanArchitecture.Insfrasctructure.csproj",
+      "projectUniqueName": "C:\\Users\\Emilinao\\Desktop\\Curso Midas\\Clean-Architecture-C-\\.NET CAPACITACION\\CleanArchitecture.Data\\CleanArchitecture.Data.csproj",
+      "projectName": "CleanArchitecture.Data",
+      "projectPath": "C:\\Users\\Emilinao\\Desktop\\Curso Midas\\Clean-Architecture-C-\\.NET CAPACITACION\\CleanArchitecture.Data\\CleanArchitecture.Data.csproj",
       "packagesPath": "C:\\Users\\Emilinao\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Emilinao\\Desktop\\Curso Midas\\Clean-Architecture-C-\\.NET CAPACITACION\\Src\\Infrastructure\\CleanArchitecture.Data\\obj\\",
+      "outputPath": "C:\\Users\\Emilinao\\Desktop\\Curso Midas\\Clean-Architecture-C-\\.NET CAPACITACION\\CleanArchitecture.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Emilinao\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1887,8 +1902,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Emilinao\\Desktop\\Curso Midas\\Clean-Architecture-C-\\.NET CAPACITACION\\Src\\Infrastructure\\CleanAcrchitecture.Domain\\CleanAcrchitecture.Domain.csproj": {
-              "projectPath": "C:\\Users\\Emilinao\\Desktop\\Curso Midas\\Clean-Architecture-C-\\.NET CAPACITACION\\Src\\Infrastructure\\CleanAcrchitecture.Domain\\CleanAcrchitecture.Domain.csproj"
+            "C:\\Users\\Emilinao\\Desktop\\Curso Midas\\Clean-Architecture-C-\\.NET CAPACITACION\\CleanAcrchitecture.Domain\\CleanAcrchitecture.Domain.csproj": {
+              "projectPath": "C:\\Users\\Emilinao\\Desktop\\Curso Midas\\Clean-Architecture-C-\\.NET CAPACITACION\\CleanAcrchitecture.Domain\\CleanAcrchitecture.Domain.csproj"
             }
           }
         }
@@ -1930,16 +1945,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "No se encuentra el proyecto \"C:\\Users\\Emilinao\\Desktop\\Curso Midas\\Clean-Architecture-C-\\.NET CAPACITACION\\Src\\Infrastructure\\CleanAcrchitecture.Domain\\CleanAcrchitecture.Domain.csproj\". Compruebe que la referencia al proyecto sea válida y que exista el archivo de proyecto.",
-      "libraryId": "C:\\Users\\Emilinao\\Desktop\\Curso Midas\\Clean-Architecture-C-\\.NET CAPACITACION\\Src\\Infrastructure\\CleanAcrchitecture.Domain\\CleanAcrchitecture.Domain.csproj",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    }
-  ]
+  }
 }

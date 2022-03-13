@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CFn7ayZOTGFvhJ8Nh9VbXt3gzW/EpxacPWgdVItD3c3zBi/xyxKcHvRpbx1Dbl4ikhtW7uQIFA+tMIAhpTUcAw==",
-  "success": false,
-  "projectFilePath": "C:\\Users\\Emilinao\\Desktop\\Curso Midas\\Clean-Architecture-C-\\.NET CAPACITACION\\Src\\Infrastructure\\CleanArchitecture.Data\\CleanArchitecture.Insfrasctructure.csproj",
+  "dgSpecHash": "8TZM4+3Lw3F4P8KIMiAaAPerZbPHgUsMbUampbTKvYEDAi8U9nyTjLI3Vb5RukU5sPu9YJ5lhTXHSs1YIQiOAQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Emilinao\\Desktop\\Curso Midas\\Clean-Architecture-C-\\.NET CAPACITACION\\CleanArchitecture.Data\\CleanArchitecture.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Emilinao\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Emilinao\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
@@ -48,15 +48,5 @@
     "C:\\Users\\Emilinao\\.nuget\\packages\\system.text.encoding.codepages\\4.7.0\\system.text.encoding.codepages.4.7.0.nupkg.sha512",
     "C:\\Users\\Emilinao\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "No se encuentra el proyecto \"C:\\Users\\Emilinao\\Desktop\\Curso Midas\\Clean-Architecture-C-\\.NET CAPACITACION\\Src\\Infrastructure\\CleanAcrchitecture.Domain\\CleanAcrchitecture.Domain.csproj\". Compruebe que la referencia al proyecto sea válida y que exista el archivo de proyecto.",
-      "libraryId": "C:\\Users\\Emilinao\\Desktop\\Curso Midas\\Clean-Architecture-C-\\.NET CAPACITACION\\Src\\Infrastructure\\CleanAcrchitecture.Domain\\CleanAcrchitecture.Domain.csproj",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    }
-  ]
+  "logs": []
 }

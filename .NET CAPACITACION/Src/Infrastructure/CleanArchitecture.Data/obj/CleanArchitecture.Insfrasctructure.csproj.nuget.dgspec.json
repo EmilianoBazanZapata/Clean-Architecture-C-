@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Emilinao\\Desktop\\Curso Midas\\Clean-Architecture-C-\\.NET CAPACITACION\\Src\\Infrastructure\\CleanArchitecture.Data\\CleanArchitecture.Data.csproj": {}
+    "C:\\Users\\Emilinao\\Desktop\\Curso Midas\\Clean-Architecture-C-\\.NET CAPACITACION\\Src\\Infrastructure\\CleanArchitecture.Data\\CleanArchitecture.Insfrasctructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Emilinao\\Desktop\\Curso Midas\\Clean-Architecture-C-\\.NET CAPACITACION\\Src\\Infrastructure\\CleanArchitecture.Data\\CleanArchitecture.Data.csproj": {
+    "C:\\Users\\Emilinao\\Desktop\\Curso Midas\\Clean-Architecture-C-\\.NET CAPACITACION\\Src\\Infrastructure\\CleanArchitecture.Data\\CleanArchitecture.Insfrasctructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Emilinao\\Desktop\\Curso Midas\\Clean-Architecture-C-\\.NET CAPACITACION\\Src\\Infrastructure\\CleanArchitecture.Data\\CleanArchitecture.Data.csproj",
-        "projectName": "CleanArchitecture.Data",
-        "projectPath": "C:\\Users\\Emilinao\\Desktop\\Curso Midas\\Clean-Architecture-C-\\.NET CAPACITACION\\Src\\Infrastructure\\CleanArchitecture.Data\\CleanArchitecture.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Emilinao\\Desktop\\Curso Midas\\Clean-Architecture-C-\\.NET CAPACITACION\\Src\\Infrastructure\\CleanArchitecture.Data\\CleanArchitecture.Insfrasctructure.csproj",
+        "projectName": "CleanArchitecture.Insfrasctructure",
+        "projectPath": "C:\\Users\\Emilinao\\Desktop\\Curso Midas\\Clean-Architecture-C-\\.NET CAPACITACION\\Src\\Infrastructure\\CleanArchitecture.Data\\CleanArchitecture.Insfrasctructure.csproj",
         "packagesPath": "C:\\Users\\Emilinao\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Emilinao\\Desktop\\Curso Midas\\Clean-Architecture-C-\\.NET CAPACITACION\\Src\\Infrastructure\\CleanArchitecture.Data\\obj\\",
         "projectStyle": "PackageReference",
