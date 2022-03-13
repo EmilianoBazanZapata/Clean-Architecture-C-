@@ -11,6 +11,17 @@ namespace CleanArchitecture.Data
             //cadena de conexion al servidor
             optionsBuilder.UseSqlServer(@"Data Source=DESKTOP-2A71OD9\SQLEXPRESS01;Initial Catalog=Streamer;Integrated Security=True").LogTo(Console.WriteLine, new[] { DbLoggerCategory.Database.Command.Name }, LogLevel.Information).EnableSensitiveDataLogging();
         }
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            //de esta manera creamos la relación independientemente de los nombres asignados
+            modelBuilder.Entity<Streamer>()
+                        .HasMany(m => m.Videos)
+                        .WithOne(m => m.Streamer)
+                        .HasForeignKey(m => m.StreamerId)
+                        .IsRequired()
+                        //eliminación por cascada
+                        .OnDelete(DeleteBehavior.Restrict);
+        }
         //convierto las clases como entidades
         //agrego el ? para que sea  nulo
         public DbSet<Streamer>? Streamers { get; set; }
