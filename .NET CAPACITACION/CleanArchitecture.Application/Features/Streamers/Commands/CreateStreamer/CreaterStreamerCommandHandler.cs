@@ -5,17 +5,16 @@ using CleanArchitecture.Application.Contracts.Persistence;
 using CleanArchitecture.Application.Models;
 using MediatR;
 using Microsoft.Extensions.Logging;
-
-namespace CleanArchitecture.Application.Features.Streamers.Commands
+namespace CleanArchitecture.Application.Features.Streamers.Commands.CreateStreamer
 {
-    public class StreamerCommandHandler : IRequestHandler<StreamerCommand, int>
+    public class CreateStreamerCommandHandler : IRequestHandler<StreamerCommand, int>
     {
         private readonly IStreamerRepository _streamerRepository;
         private readonly IMapper _mapper;
         private readonly IEmailService _emailService;
-        private readonly ILogger<StreamerCommandHandler> _logger;
+        private readonly ILogger<CreateStreamerCommandHandler> _logger;
 
-        public StreamerCommandHandler(IStreamerRepository streamerRepository, IMapper mapper, IEmailService emailService, ILogger<StreamerCommandHandler> logger)
+        public CreateStreamerCommandHandler(IStreamerRepository streamerRepository, IMapper mapper, IEmailService emailService, ILogger<CreateStreamerCommandHandler> logger)
         {
             _streamerRepository = streamerRepository;
             _mapper = mapper;

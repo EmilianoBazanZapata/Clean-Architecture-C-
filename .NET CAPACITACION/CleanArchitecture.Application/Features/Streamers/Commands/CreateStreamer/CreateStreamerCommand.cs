@@ -1,6 +1,6 @@
 using MediatR;
 
-namespace CleanArchitecture.Application.Features.Streamers.Commands
+namespace CleanArchitecture.Application.Features.Streamers.Commands.CreateStreamer
 {
     public class StreamerCommand : IRequest<int>
     {
